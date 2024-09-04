@@ -15,7 +15,7 @@
         "react/async": "^4.2",
         "react/event-loop": "^1.5",
         "react/promise": "^2.11",
-        "telephantast/message-bus": "^0.1@dev"
+        "magyar/message-bus": "^0.1@dev"
     },
     "autoload": {
         "psr-4": {
